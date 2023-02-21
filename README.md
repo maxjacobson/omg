@@ -1,0 +1,1 @@
+**Note** I feel kind of bad for squatting on the very cool [omg](https://crates.io/crates/omg) package name on crates.io... I was just experimenting several years ago. If anyone wants it, feel free to just open an issue on [the repo](https://github.com/maxjacobson/omg) and I'll happily hand it over to you.
