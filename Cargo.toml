@@ -2,5 +2,7 @@
 name = "omg"
 version = "0.1.1"
 authors = ["Max Jacobson <max@hardscrabble.net>"]
+description = "Nothing to see here"
+license = "MIT"
 
 [dependencies]
